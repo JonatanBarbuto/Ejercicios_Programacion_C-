@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\bin\Debug\net6.0\I08 - Dibujando un triángulo rectángulo.exe
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\bin\Debug\net6.0\I08 - Dibujando un triángulo rectángulo.deps.json
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\bin\Debug\net6.0\I08 - Dibujando un triángulo rectángulo.runtimeconfig.json
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\bin\Debug\net6.0\I08 - Dibujando un triángulo rectángulo.dll
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\bin\Debug\net6.0\I08 - Dibujando un triángulo rectángulo.pdb
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\I08 - Dibujando un triángulo rectángulo.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\I08 - Dibujando un triángulo rectángulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\I08 - Dibujando un triángulo rectángulo.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\I08 - Dibujando un triángulo rectángulo.AssemblyInfo.cs
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\I08 - Dibujando un triángulo rectángulo.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\I08 - Dibujando un triángulo rectángulo.dll
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\refint\I08 - Dibujando un triángulo rectángulo.dll
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\I08 - Dibujando un triángulo rectángulo.pdb
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\I08 - Dibujando un triángulo rectángulo.genruntimeconfig.cache
+C:\Users\jonat\source\repos\I08 - Dibujando un triángulo rectángulo\I08 - Dibujando un triángulo rectángulo\obj\Debug\net6.0\ref\I08 - Dibujando un triángulo rectángulo.dll

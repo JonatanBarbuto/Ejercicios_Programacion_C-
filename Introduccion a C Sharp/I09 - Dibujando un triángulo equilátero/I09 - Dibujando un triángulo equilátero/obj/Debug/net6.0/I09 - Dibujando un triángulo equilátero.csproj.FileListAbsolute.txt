@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\bin\Debug\net6.0\I09 - Dibujando un triángulo equilátero.exe
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\bin\Debug\net6.0\I09 - Dibujando un triángulo equilátero.deps.json
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\bin\Debug\net6.0\I09 - Dibujando un triángulo equilátero.runtimeconfig.json
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\bin\Debug\net6.0\I09 - Dibujando un triángulo equilátero.dll
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\bin\Debug\net6.0\I09 - Dibujando un triángulo equilátero.pdb
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\I09 - Dibujando un triángulo equilátero.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\I09 - Dibujando un triángulo equilátero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\I09 - Dibujando un triángulo equilátero.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\I09 - Dibujando un triángulo equilátero.AssemblyInfo.cs
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\I09 - Dibujando un triángulo equilátero.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\I09 - Dibujando un triángulo equilátero.dll
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\refint\I09 - Dibujando un triángulo equilátero.dll
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\I09 - Dibujando un triángulo equilátero.pdb
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\I09 - Dibujando un triángulo equilátero.genruntimeconfig.cache
+C:\Users\jonat\source\repos\I09 - Dibujando un triángulo equilátero\I09 - Dibujando un triángulo equilátero\obj\Debug\net6.0\ref\I09 - Dibujando un triángulo equilátero.dll
